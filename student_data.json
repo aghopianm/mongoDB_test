@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Jane Smith",
+        "gpa": 4.0,
+        "sex": "female",
+        "age": 29,
+        "Country of birth": "United Kingdom"
+    },
+
+    {
+        "id": 2,
+        "name": "John Doe",
+        "gpa": 3.5,
+        "sex": "male",
+        "age": 26,
+        "Country of birth": "United States"
+    },
+
+    {
+        "id": 3,
+        "name": "Steven Smith",
+        "gpa": 3.0,
+        "sex": "male",
+        "age": 21,
+        "Country of birth": "Uruguay"
+    }
+
+]
