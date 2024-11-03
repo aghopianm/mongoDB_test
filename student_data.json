@@ -5,7 +5,11 @@
         "gpa": 4.0,
         "sex": "female",
         "age": 29,
-        "Country of birth": "United Kingdom"
+        "Country of birth": "United Kingdom",
+        "further details": {
+            "hobbies": "guitar, gym, piano",
+            "CS experience": "minimal"
+        }
     },
 
     {
